@@ -6,6 +6,7 @@ Our project aims to create a simple yet practical Flutter.io application, levera
 Product User Stories:
 
 1.As a restaurant enthusiast, I wish to be able to use the application to search for and browse restaurants near me, enabling me to stay informed about my dining options at all times.
+
 2.As a foodie, I want to be able to search for specific types of restaurants within the application, such as Italian restaurants or vegetarian eateries, to cater to my tastes.
 3.As a user, I hope to be able to add my favorite restaurants to my personal favorites list, allowing for easy access in the future.
 4.As a user, I want to be able to view the list of restaurants in my favorites and remove those that no longer pique my interest.
